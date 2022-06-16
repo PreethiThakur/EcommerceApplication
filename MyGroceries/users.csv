@@ -1,0 +1,10 @@
+UserID,Name,Email,Password,Address,Phone
+22d84754-33ab-446a-897a-8e904b61e1e6,test,test@test.com,testtest,test home,1234
+70974839-d57d-44c5-a03d-e2a1eb8a3ab1,w,w@w.com,12345678,w,123
+479224ac-f689-4c2c-bad3-ffbe45269195,p,p@p.com,12345678,p,123
+79c00413-89f2-48f9-a158-1f8eb026ea53,e,a,123456789,e,3
+eb03ee66-efba-4af0-a4f8-04d8c5c81144,t,y,12345678,t,5
+d63a15d1-394c-46c5-ae8f-96617ea15547,j,i,09876543,r,4
+5443172d-2284-4b30-8fef-c505274f31ca,e,pe,09876543,e,3
+bd3705c0-c29e-4d52-9ad1-aeeac3166174,Kid,kid@test.com,kidtest,123,0123456789
+dbedc8af-80d1-4483-9fc2-1a41635c3dec,Tommy,tommy@test.com,tommytest,123,0987654321
